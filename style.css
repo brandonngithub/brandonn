@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'garet';
-    src: url('Garet-Book.woff') format('woff')
+    src: url('./Garet-Book.woff') format('woff')
 }  
 
 body {
